@@ -1,2 +1,6 @@
 This is fukuda.txt
+
+hello
+
 I like hotdog
+
